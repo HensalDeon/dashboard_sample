@@ -1,4 +1,5 @@
 # Dashboard
+![Preview](./src/assets/img/Screenshot%202023-11-25%20001930.png)
 
 ## Description
 
