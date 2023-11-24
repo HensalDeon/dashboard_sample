@@ -24,7 +24,7 @@ export default function SideBar() {
                         <p>
                             Ram Mohan <img src={rArrow} alt="right-arrow" />{" "}
                         </p>
-                        <span>rammohan2@gmail.com</span>
+                        <span>rammoh@gmail.com</span>
                     </div>
                 </header>
                 <nav className="sidebar-nav">

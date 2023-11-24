@@ -27,10 +27,13 @@
         .time {
             display: flex;
             flex-direction: row-reverse;
+            @media (max-width: 992px) {
+                padding: 1rem 0;
+            }
             .box {
                 display: flex;
                 border-radius: 3rem;
-                border: solid 1.4px #000000;
+                border: solid 1.4px #636262;
                 padding: 4px 4px;
                 span {
                     padding: 2px 2rem;
