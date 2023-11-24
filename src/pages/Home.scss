@@ -1,0 +1,54 @@
+.home {
+    position: relative;
+    padding-top: 1rem;
+    section {
+        position: absolute;
+        left: 4.5rem;
+        background: #fafafa;
+        width: calc(100vw - 4.5rem);
+        padding: 1.3rem 3rem 0;
+        .heading {
+            letter-spacing: 2px;
+        }
+
+        .add {
+            width: 2.7rem;
+            position: fixed;
+            bottom: 1rem;
+            right: 1rem;
+        }
+        .bell {
+            width: 2.7rem;
+            position: absolute;
+            right: 1rem;
+            top: 0.5rem;
+        }
+
+        .time {
+            display: flex;
+            flex-direction: row-reverse;
+            .box {
+                display: flex;
+                border-radius: 3rem;
+                border: solid 1.4px #000000;
+                padding: 4px 4px;
+                span {
+                    padding: 2px 2rem;
+                    @media (max-width: 480px) {
+                        padding: 2px 0.3rem;
+                    }
+                    cursor: pointer;
+                    sup {
+                        color: rgb(6, 145, 40);
+                    }
+                }
+                .bg {
+                    background: #b0e1ff;
+                    border-radius: 3rem;
+                    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+                    transition: transform 0.3s ease;
+                }
+            }
+        }
+    }
+}
