@@ -10,7 +10,7 @@ This is simple responsice dashboard ui made with vite + react and sass/scss for 
 
 -   Responsive
 -   Creative
--   Motions
+-   Animations
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ This is simple responsice dashboard ui made with vite + react and sass/scss for 
 
 ### Usage
 
-Explain how to use your project, provide examples, and any necessary information.
+Do the steps as mentioned in above everyhting should work fine. Please let me know if it's not working
 
 ## Contributing
 
@@ -38,5 +38,3 @@ This project is licensed under the Hensal DEon License - see the [LICENSE.md](LI
     `hensaldeon777@gmail.com`
 
 ---
-
-**Note:** Customize the content based on your project's specific details and requirements.
