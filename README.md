@@ -1,18 +1,16 @@
-# Your Project Name
+# Dashboard
 
 ## Description
 
-Briefly describe your project and its purpose.
+This is simple responsice dashboard ui made with vite + react and sass/scss for styling
 
 ## Features
 
--   List key features of your project.
+-   Responsive
+-   Creative
+-   Motions
 
 ## Getting Started
-
-### Prerequisites
-
--   List any prerequisites or dependencies that users need to install.
 
 ### Installation
 
@@ -30,7 +28,7 @@ If you'd like to contribute to this project, please follow these guidelines.
 
 ## License
 
-This project is licensed under the [Your License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Hensal DEon License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
