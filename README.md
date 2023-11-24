@@ -1,5 +1,5 @@
 # Dashboard
-![Preview](./src/assets/img/Screenshot%202023-11-25%20001930.png)<img width="960" alt="Screenshot 2023-11-25 001930" src="https://github.com/HensalDeon/dashboard_sample/assets/120702682/68c01ccc-9571-4230-9f5a-d73e1db2073e">
+<img width="960" alt="Screenshot 2023-11-25 001930" src="https://github.com/HensalDeon/dashboard_sample/assets/120702682/68c01ccc-9571-4230-9f5a-d73e1db2073e">
 
 
 ## Description
