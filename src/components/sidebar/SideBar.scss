@@ -14,7 +14,7 @@ button {
     position: fixed;
     bottom: 0;
     z-index: 10;
-    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 25px 20px rgba(0, 0, 0, 0.1), 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
 body.open .sidebar {
@@ -43,24 +43,20 @@ body.open .sidebar {
     height: 72px;
     display: grid;
     place-items: center;
-    background: url(../../assets/img/logo.png) no-repeat center center;
+    background: url(../../assets/img/icon-hamburger.svg) no-repeat center center;
     background-size: 50%;
     transition: 0.3s;
+    position: absolute;
 }
 
 body.open .sidebar-burger {
     display: flex;
     gap: 25px;
     align-items: center;
-    height: 60px;
-    font-size: 16px;
-    font-weight: 200;
-    letter-spacing: 2px;
-    line-height: 1;
-    padding: 0 20px;
+    height: 40px;
     background: rebeccapurple;
-    background: url(../../assets/img/logo.png) no-repeat center center;
-    background-size: 50%;
+    background: url(../../assets/img/icon-close.svg) no-repeat center center;
+    background-size: 38%;
 }
 
 .sidebar-profile {
