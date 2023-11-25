@@ -4,7 +4,7 @@
 
 ## Description
 
-This is simple responsice dashboard ui made with vite + react and sass/scss for styling
+This is a simple responsive dashboard ui made with vite + react and sass/scss for styling
 
 ## Features
 
@@ -22,6 +22,7 @@ This is simple responsice dashboard ui made with vite + react and sass/scss for 
 
 ### Usage
 
+1. `npm run dev`
 Do the steps as mentioned in above everyhting should work fine. Please let me know if it's not working
 
 ## Contributing
