@@ -2,7 +2,7 @@
     "name": "arab_industries_design",
     "private": true,
     "version": "0.0.0",
-    "homepage": "https://hensaldeon.github.io/dashboard_sample",
+    "homepage": "https://HensalDeon.github.io/dashboard_sample",
     "type": "module",
     "scripts": {
         "predeploy": "npm run build",
